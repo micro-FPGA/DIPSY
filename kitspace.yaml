@@ -1,1 +1,2 @@
 gerbers: releases/v0.1/gerber
+bom: releases/v0.1/bom.tsv
