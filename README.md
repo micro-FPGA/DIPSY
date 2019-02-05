@@ -1,2 +1,2 @@
 # DIPSY
-DIPSY - DIP sized something!
+DIPSY - DIP sized magical thing!
