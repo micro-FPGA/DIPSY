@@ -1,2 +1,2 @@
 # DIPSY
-DIPSY - DIP sized computer
+DIPSY - DIP sized something!
